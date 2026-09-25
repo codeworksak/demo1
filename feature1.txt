@@ -1,1 +1,2 @@
 feature/feature1 added
+feature1 modified by this line
